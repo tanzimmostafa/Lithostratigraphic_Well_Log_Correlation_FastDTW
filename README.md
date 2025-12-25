@@ -4,7 +4,7 @@ This repository contains the Python implementation of a well-log correlation fra
 
 ## 📌 Project Overview
 
-Well-to-well correlation is a fundamental aspect of reservoir modeling and understanding subsurface geology. However, it is a challenging task due to the intrinsic heterogeneity of subsurface formations and uncertainties in geophysical logs. I employed the FastDTW algorithm, which is widely used for aligning time series of different lengths, to align the log curves of the reference well with each of the observation wells.
+Well-to-well correlation is a fundamental aspect of reservoir modeling and understanding subsurface geology. However, it is a challenging task due to the intrinsic heterogeneity of subsurface formations and uncertainties in geophysical logs. I utilized the FastDTW algorithm, which is widely used for aligning time series of different lengths, to align the log curves of the reference well with each of the observation wells.
 
 ## 📊 Dataset Description
 
