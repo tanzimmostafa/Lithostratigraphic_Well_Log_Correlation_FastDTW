@@ -21,5 +21,5 @@ The study utilizes a real-world dataset from a **carbonate oil reservoir field i
   * **DT (Sonic Log):** Measures the travel time of sound waves. Used to estimate porosity and other petrophysical properties.
 * **Resolution:** All logs were recorded at a resolution of 0.153 m.
 
-## Well Log Correlation Result
+## Well Log Correlation Figure
 <img src="Code/Well_Correlation_Figure.png" width="800">
