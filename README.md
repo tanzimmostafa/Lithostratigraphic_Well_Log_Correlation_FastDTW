@@ -20,3 +20,6 @@ The study utilizes a real-world dataset from a **carbonate oil reservoir field i
   * **RHOB (Bulk Density):** Measures formation density. Useful for estimating porosity, lithology, and identifying hydrocarbon zones.
   * **DT (Sonic Log):** Measures the travel time of sound waves. Used to estimate porosity and other petrophysical properties.
 * **Resolution:** All logs were recorded at a resolution of 0.153 m.
+
+## Well Log Correlation Result
+<img src="Codes/Well_Correlation_Figure.png" width="800">
