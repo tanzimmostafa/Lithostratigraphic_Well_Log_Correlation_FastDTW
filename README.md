@@ -10,7 +10,8 @@ Well-to-well correlation is a fundamental aspect of reservoir modeling and under
 
 The study utilizes a real-world dataset from a **carbonate oil reservoir field in southwest Iran**.
 
-* **Wells:** * **Reference Well:** Contains 6 lithologically distinct layers (L1 to L6).
+* **Wells:**
+  * **Reference Well:** Contains 6 lithologically distinct layers (L1 to L6).
   * **Observation Well 1:** Contains 6 lithologically distinct layers (L1 to L6).
   * **Observation Well 2:** Contains 2 identifiable layers (L4 and L5).
 * **Geophysical Logs:**
