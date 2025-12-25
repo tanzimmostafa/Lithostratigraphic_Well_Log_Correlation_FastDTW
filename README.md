@@ -1,5 +1,3 @@
-<img width="1703" height="899" alt="image" src="https://github.com/user-attachments/assets/2a165001-9b3a-4a9a-85b3-6af9d445ebce" /># Lithostratigraphic_Well_Log_Correlation_FastDTW
-
 # Lithostratigraphic Well Log Correlation using Fast Dynamic Time Warping (FastDTW)
 
 This repository contains the Python implementation of a modified well-log correlation framework developed for my thesis research. The project improves stratigraphic unit alignment by replacing traditional PCA-based similarity with **Fast Dynamic Time Warping (FastDTW)**, enhanced by a custom weighted distance function.
