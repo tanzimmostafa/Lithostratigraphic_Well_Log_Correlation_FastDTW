@@ -1,6 +1,6 @@
 # Lithostratigraphic Well Log Correlation using Fast Dynamic Time Warping (FastDTW)
 
-This repository contains the Python implementation of a modified well-log correlation framework developed for my Master's thesis research. It uses the **Fast Dynamic Time Warping (FastDTW)** algorithm, with a custom weighted distance function tuned using grid search. This approach achieved a significant reduction in Mean Absolute Error (MAE) for boundary prediction compared to existing PCA-based benchmark on the same dataset. More information can be found in Chapter 4 of my Master's thesis: https://www.proquest.com/docview/3240874881
+This repository contains the Python implementation of a well-log correlation framework developed for my Master's thesis research. It uses the **Fast Dynamic Time Warping (FastDTW)** algorithm, with a custom weighted distance function tuned using grid search. This approach achieved a significant reduction in Mean Absolute Error (MAE) for boundary prediction compared to existing PCA-based benchmark on the same dataset. More information can be found in Chapter 4 of my Master's thesis: https://www.proquest.com/docview/3240874881
 
 ## 📌 Project Overview
 
