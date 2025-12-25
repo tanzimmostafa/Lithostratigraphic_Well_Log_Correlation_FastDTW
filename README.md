@@ -15,7 +15,7 @@ The study utilizes a real-world dataset from a **carbonate oil reservoir field i
   * **Observation Well 1:** Contains 6 lithologically distinct layers (L1 to L6).
   * **Observation Well 2:** Contains 2 identifiable layers (L4 and L5).
 * **Geophysical Logs:**
-  * **SGR (Spectral Gamma Ray):** Measures total gamma ray radioactivity.
+  * **SGR (Spectral Gamma Ray):** Measures total gamma ray radioactivity from potassium, thorium, and uranium.
   * **CGR (Computed Gamma Ray):** Measures potassium and thorium while excluding uranium. More representative of clay/shale content.
   * **RHOB (Bulk Density):** Measures formation density. Useful for estimating porosity, lithology, and identifying hydrocarbon zones.
   * **DT (Sonic Log):** Measures the travel time of sound waves. Used to estimate porosity and other petrophysical properties.
