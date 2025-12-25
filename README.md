@@ -22,4 +22,4 @@ The study utilizes a real-world dataset from a **carbonate oil reservoir field i
 * **Resolution:** All logs were recorded at a resolution of 0.153 m.
 
 ## Well Log Correlation Figure
-<img src="Code/Well_Correlation_Figure.png" width="800">
+<img src="Figure/Well_Correlation_Figure.png" width="800">
